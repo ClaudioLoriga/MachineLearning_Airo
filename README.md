@@ -1,2 +1,2 @@
-# AIRO_LATEX_INTEGRATION
-A Tentative Of Integration For The Master's Course of AIRO 2025-2026 of Marco Casu's Notes
+# MachineLearning_Airo
+Repo for Machine Learning Latex + Exercises
